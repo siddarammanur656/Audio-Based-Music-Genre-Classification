@@ -1,4 +1,4 @@
-# Music Genre Classification
+# Audio-Based Music Genre Classification
 
 A machine learning project that classifies music into different genres using audio features and deep learning techniques.
 
